@@ -1,5 +1,3 @@
-# alx-files_manager
+# ALX_FILES_MANAGER
 
-Wabi Sabi...
-
-Omo çomraderie
+FILES MANAGER ALX CODE
